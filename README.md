@@ -38,9 +38,8 @@ Stephanie
 Madison:[**@Madison-Wiffler**] I have two cats :)
 
 Kailey
-```md
 [**@kjmahoney23**](https://github.com/kjmahoney23) I grew up in Denver, Colorado. I studied environmental science in undergrad. 
-```
+
 Jacob
 
 Usman
